@@ -19,7 +19,7 @@
   <img  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;&nbsp;
 </div>
 <br />
----
+
 ## 📚 Frameworks, Platforms and Libraries:
 <div>
     <img  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;&nbsp;
@@ -41,14 +41,14 @@
     <img  src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">&nbsp;&nbsp;&nbsp;
 </div>
 <br />
----
+
 ## 💻 Preferred OS:
 <div>
     <img height=40 src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">&nbsp;&nbsp;&nbsp;
     <img height=40 src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
 </div>
 <br />
----
+
 ## 📘 Favourite IDE/Editors:
 <div>
     <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;&nbsp; 
