@@ -42,12 +42,6 @@
 </div>
 <br />
 
-## 💻 Preferred OS:
-<div>
-    <img height=40 src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">&nbsp;&nbsp;&nbsp;
-    <img height=40 src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
-</div>
-<br />
 
 ## 📘 Favourite IDE/Editors:
 <div>
@@ -55,4 +49,11 @@
     <img  src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=darkorchid&labelColor=darkorchid">&nbsp;&nbsp;&nbsp; 
     <img  src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=green">&nbsp;&nbsp;&nbsp; 
     <img  src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp;&nbsp;&nbsp;
- </div>
+</div>
+<br />
+
+## 💻 Preferred OS:
+<div>
+    <img height=40 src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">&nbsp;&nbsp;&nbsp;
+    <img height=40 src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+</div>
