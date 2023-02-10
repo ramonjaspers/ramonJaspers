@@ -1,6 +1,7 @@
-# Hi, my name is Ramon <img src="./gifs/hi.gif" height="30px" width="30px">
-
+# Hi, my name is Ramon <img src="./gifs/hi.gif" height="30px" width="30px"> 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ramon-jaspers/)](https://www.linkedin.com/in/ramon-jaspers/)
+
+- I am a full-stack developer with a passion for react and a preference for front-end work where i can let my creativity run free.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramonjaspers&theme=nightowl&show_icons=true&count_private=true&include_all_commits=false&hide_border=true" alt="Ramon's yearly github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonjaspers&theme=nightowl&layout=compact&hide_border=true&langs_count=6" /></a> |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
