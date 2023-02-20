@@ -85,3 +85,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ramon-jaspers/)](https://www.linkedin.com/in/ramon-jaspers/)
 
+
+![](https://komarev.com/ghpvc/?username=ramonjaspers&color=blueviolet)
