@@ -23,6 +23,6 @@ Current fav tech: TS, RN-Expo, React, TanStack
 
 ## 👥 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ramonjaspers/)](https://www.linkedin.com/in/ramonjaspers/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ramonjaspers/)](https://www.linkedin.com/in/ramon-jaspers/)
 
 ![](https://komarev.com/ghpvc/?username=ramonjaspers&color=blueviolet)
