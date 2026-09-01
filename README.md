@@ -4,7 +4,9 @@ I am a full-stack developer with a passion for react and a preference for front-
 
 ##### currently active in an GitLab environment 🥸
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=ramonjaspers&theme=nightowl&show_icons=true&count_private=true&include_all_commits=false&hide_border=true" alt="Ramon's yearly github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ramonjaspers&theme=nightowl&layout=compact&hide_border=true&langs_count=6" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=ramonjaspers&theme=nightowl&show_icons=true&count_private=true&include_all_commits=false&hide_border=true" alt="Ramon's yearly github stats" /></a> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ramonjaspers&theme=nightowl&hide_border=true&langs_count=6" /></a>
 
 ## 🛠 Tech Stack
 Current fav tech: TS, RN-Expo, React, TanStack
